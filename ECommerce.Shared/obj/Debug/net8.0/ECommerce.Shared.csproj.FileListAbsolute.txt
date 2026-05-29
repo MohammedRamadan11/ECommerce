@@ -1,0 +1,12 @@
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.deps.json
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.dll
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.pdb
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.AssemblyInfo.cs
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.sourcelink.json
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.dll
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\obj\Debug\net8.0\refint\ECommerce.Shared.dll
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.pdb
+C:\Users\Mo_Wael\Desktop\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ref\ECommerce.Shared.dll

@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{339DB70B-C796-48A6-8A74-13D160C5B07B}|ECommerce.Services\\ECommerce.Services.csproj|c:\\users\\mo_wael\\desktop\\ecommerce\\ecommerce.services\\specifications\\productspecifications\\productwith brand and type specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339DB70B-C796-48A6-8A74-13D160C5B07B}|ECommerce.Services\\ECommerce.Services.csproj|solutionrelative:ecommerce.services\\specifications\\productspecifications\\productwith brand and type specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339DB70B-C796-48A6-8A74-13D160C5B07B}|ECommerce.Services\\ECommerce.Services.csproj|c:\\users\\mo_wael\\desktop\\ecommerce\\ecommerce.services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339DB70B-C796-48A6-8A74-13D160C5B07B}|ECommerce.Services\\ECommerce.Services.csproj|solutionrelative:ecommerce.services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339DB70B-C796-48A6-8A74-13D160C5B07B}|ECommerce.Services\\ECommerce.Services.csproj|c:\\users\\mo_wael\\desktop\\ecommerce\\ecommerce.services\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339DB70B-C796-48A6-8A74-13D160C5B07B}|ECommerce.Services\\ECommerce.Services.csproj|solutionrelative:ecommerce.services\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339DB70B-C796-48A6-8A74-13D160C5B07B}|ECommerce.Services\\ECommerce.Services.csproj|c:\\users\\mo_wael\\desktop\\ecommerce\\ecommerce.services\\ecommerce.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{339DB70B-C796-48A6-8A74-13D160C5B07B}|ECommerce.Services\\ECommerce.Services.csproj|solutionrelative:ecommerce.services\\ecommerce.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "ECommerce.Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Services\\ProductServices.cs",
+              "RelativeToolTip": "ECommerce.Services\\ProductServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:02:37.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Services\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "ECommerce.Services\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Services\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "ECommerce.Services\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:57:19.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductWith Brand and Type Specification.cs",
+              "DocumentMoniker": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Services\\Specifications\\ProductSpecifications\\ProductWith Brand and Type Specification.cs",
+              "RelativeDocumentMoniker": "ECommerce.Services\\Specifications\\ProductSpecifications\\ProductWith Brand and Type Specification.cs",
+              "ToolTip": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Services\\Specifications\\ProductSpecifications\\ProductWith Brand and Type Specification.cs",
+              "RelativeToolTip": "ECommerce.Services\\Specifications\\ProductSpecifications\\ProductWith Brand and Type Specification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:55:22.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ECommerce.Services",
+              "DocumentMoniker": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Services\\ECommerce.Services.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Services\\ECommerce.Services.csproj",
+              "ToolTip": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Services\\ECommerce.Services.csproj",
+              "RelativeToolTip": "ECommerce.Services\\ECommerce.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T22:06:16.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

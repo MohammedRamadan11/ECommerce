@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\CasualSneakers.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\CasualSneakers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\ClassicBlackDressPants.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ClassicBlackDressPants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\ClassicWhiteTShirt.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\ClassicWhiteTShirt.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\CottonHoodie.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\CottonHoodie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\DenimJacket.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\DenimJacket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\FormalBlazer.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\FormalBlazer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\KnittedSweater.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\KnittedSweater.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\MensLeatherJacket.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\MensLeatherJacket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\MensPoloShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\MensPoloShirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\SlimFitJeans.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\SlimFitJeans.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\SummerFloralDress.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\SummerFloralDress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\WomensTrenchCoat.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\WomensTrenchCoat.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mo_Wael\\Desktop\\ECommerce\\ECommerce.Api\\wwwroot\\images\\products\\WoolScarf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\WoolScarf.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerce.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerce.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ECommerce.Api.props",
+      "PackagePath": "build\\ECommerce.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ECommerce.Api.props",
+      "PackagePath": "buildMultiTargeting\\ECommerce.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ECommerce.Api.props",
+      "PackagePath": "buildTransitive\\ECommerce.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
